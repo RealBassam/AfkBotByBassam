@@ -1,9 +1,9 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
-	"name": "afkbot",
+	"ip":"deepwithsky.aternos.me",
+	"port": 19055,
+	"name": "Bassam_AFK24H",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register 12345 12345",
 	"login-cmd":"/login 12345"
 }
